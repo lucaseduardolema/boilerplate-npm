@@ -3,7 +3,10 @@
 	"author": "Lucas Eduardo",
 	"description": "freeCodeCamp back-end course",
 	"keywords": [ "back-end", "freecodecamp"],
+	"license": "MIT",
+	"version": "0.1.0",
 	"dependencies": {
+		"@freecodecamp/example": "1.1.0",
 		"express": "^4.14.0"
 	},
 	"main": "server.js",
